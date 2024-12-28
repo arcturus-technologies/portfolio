@@ -276,12 +276,12 @@ li {
   padding: 10px;
   cursor: pointer;
   text-align: center;
-  background-color: #fadcea;
+  background-color: #FF733F;
 }
 
 .page-top .material-icons-outlined {
   vertical-align: bottom;
-  color: #333;
+  color: #818387;
 }
 
 /*--------------------------------
@@ -289,13 +289,13 @@ li {
 ---------------------------------*/
 .footer {
   padding: 30px;
-  background-color: #efc4d8;
+  background-color: #ff4500;
 }
 
 .copyright {
   font-size: 10px;
   text-align: center;
-  color: #797979;
+  color: #eee4e4;
 }
 
 /*--------------------------------
