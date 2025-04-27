@@ -77,9 +77,9 @@
 <img src="https://img.shields.io/badge/-Joomla-5091CD.svg?logo=joomla&style=plastic">
 <img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=plastic">
 <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
-
 <img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=plastic">
 <img src="https://img.shields.io/badge/-Yarn-2C8EBB.svg?logo=yarn&style=plastic">
+<img src="https://img.shields.io/badge/-Android%20Studio-A4C639.svg?logo=android&amp;style=for-the-badge" loading="lazy">
 
 
 
