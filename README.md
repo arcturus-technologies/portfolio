@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/-Cakephp-D33C43.svg?logo=cakephp&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Codeigniter-EE4623.svg?logo=codeigniter&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Dot%20net-5C2D91.svg?logo=dot-net&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Dot-net-5C2D91.svg?logo=dot-net&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=for-the-badge">
