@@ -6,13 +6,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=arcturus-technologies&theme=onedark)](https://github-profile-trophy.vercel.app/?username=arcturus-technologies&theme=tokyonight)
 
 
-[![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
-[![フレームワークバッジ](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
-[![Dockerバッジ](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
-[![HTMLバッジ](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-[![CSSバッジ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScriptバッジ](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 
 <span id="フロントエンドフレームワーク" class="fragment"></span>
 <img src="https://img.shields.io/badge/-Angular-DD0031.svg?logo=angular&style=plastic">
@@ -107,7 +100,7 @@
 <img src="https://img.shields.io/badge/-Zendesk-03363D.svg?logo=zendesk&style=plastic">
 
 
-<span id="AI" class="fragment"></span>
+<span id="AI Model" class="fragment"></span>
 <img src="https://img.shields.io/badge/-Grafana-F46800.svg?logo=grafana&style=plastic">
 
 
@@ -118,14 +111,14 @@
 <span id="DB" class="fragment"></span>
 <img src="https://img.shields.io/badge/-Oracle-F80000.svg?logo=oracle&style=plastic">
 <img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic">
-
+<img src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=plastic">
 
 <span id="NoCode" class="fragment"></span>
 <img src="https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=plastic">
 <img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=plastic">
 <img src="https://img.shields.io/badge/-Wordpress-21759B.svg?logo=wordpress&style=plastic">
 <img src="https://img.shields.io/badge/-Wikipedia-000000.svg?logo=wikipedia&style=plastic">
-
+<img src="https://img.shields.io/badge/-Shopify-7AB55C.svg?logo=shopify&style=plastic">
 
 
 
