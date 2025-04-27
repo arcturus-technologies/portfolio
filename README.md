@@ -1,3 +1,4 @@
+<body style="black">
 <img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arcturus-technologies&theme=2077)
@@ -24,3 +25,5 @@
 
 
 [![github-chart](https://github-chart.vercel.app/api?user=arcturus-technologies)](https://github.com/arcturus-technologies/github-chart)
+
+</body>
