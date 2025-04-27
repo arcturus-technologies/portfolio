@@ -1,13 +1,5 @@
-<body style="background-color:black">
-<img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arcturus-technologies&theme=2077)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arcturus-technologies&theme=onedark)](https://github-profile-trophy.vercel.app/?username=arcturus-technologies&theme=tokyonight)
-
-
 <span id="フロントエンドフレームワーク" class="fragment"></span>
-<h4>フロントエンドフレームワーク</h4>
+<h4>フロントエンドフレームワーク・ライブラリー</h4>
 <img src="https://img.shields.io/badge/-Angular-DD0031.svg?logo=angular&style=plastic">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=plastic">
 <img src="https://img.shields.io/badge/-D3.js-F9A03C.svg?logo=d3.js&style=plastic">
@@ -15,6 +7,7 @@
 <img src="https://img.shields.io/badge/-Json-000000.svg?logo=json&style=plastic">
 <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=plastic">
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=plastic">
+<img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
 
 <span id="フロントエンド言語" class="fragment"></span>
 <h4>フロントエンド言語</h4>
@@ -23,9 +16,8 @@
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
 <img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=plastic">
 
-
 <span id="バックエンドフレームワーク" class="fragment"></span>
-<h4>バックエンドフレームワーク</h4>
+<h4>バックエンドフレームワーク・ライブラリー</h4>
 <img src="https://img.shields.io/badge/-Cakephp-D33C43.svg?logo=cakephp&style=plastic">
 <img src="https://img.shields.io/badge/-Codeigniter-EE4623.svg?logo=codeigniter&style=plastic">
 <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=plastic">
@@ -34,16 +26,17 @@
 <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=plastic">
 <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic">
 <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=plastic">
-<img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
+<img src="https://img.shields.io/badge/-Graphql-E10098.svg?logo=graphql&style=plastic">
 
   
 <span id="バックエンド言語" class="fragment"></span>
-<h4>フロントエンドフレームワーク</h4>
+<h4>バックエンド言語</h4>
+<img src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=plastic">
+<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
+<img src="https://img.shields.io/badge/-C#-000000.svg?logo=C#&style=plastic">
 <img src="https://img.shields.io/badge/-Deno-000000.svg?logo=deno&style=plastic">
 <img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=plastic">
 <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">
-<img src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=plastic">
-<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
 <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=plastic">
 <img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=plastic">
 
@@ -66,29 +59,7 @@
 <img src="https://img.shields.io/badge/-Vine-11B48A.svg?logo=vine&style=plastic">
 <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=plastic">
 <img src="https://img.shields.io/badge/-Opensuse-73BA25.svg?logo=opensuse&style=plastic">
-
-
-<span id="その他" class="fragment"></span>
-<h4>その他</h4>
-<img src="https://img.shields.io/badge/-Auth0-EB5424.svg?logo=auth0&style=plastic">
-<img src="https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=plastic">
 <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
-<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
-<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
-<img src="https://img.shields.io/badge/-Gitlab-E24329.svg?logo=gitlab&style=plastic">
-<img src="https://img.shields.io/badge/-Letsencrypt-003A70.svg?logo=letsencrypt&style=plastic">
-<img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=plastic">
-<img src="https://img.shields.io/badge/-Dropbox-0061FF.svg?logo=dropbox&style=plastic">
-<img src="https://img.shields.io/badge/-Jira-172B4D.svg?logo=jira&style=plastic">
-<img src="https://img.shields.io/badge/-Joomla-5091CD.svg?logo=joomla&style=plastic">
-<img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=plastic">
-<img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
-<img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=plastic">
-<img src="https://img.shields.io/badge/-Yarn-2C8EBB.svg?logo=yarn&style=plastic">
-<img src="https://img.shields.io/badge/-Android%20Studio-A4C639.svg?logo=android&amp;style=for-the-badge" loading="lazy">
-<img src="https://img.shields.io/badge/-Postman-FF6C37.svg?logo=postman&style=plastic">
-<img src="https://img.shields.io/badge/-Powershell-5391FE.svg?logo=powershell&style=plastic">
-
 
 
 <span id="API" class="fragment"></span>
@@ -103,8 +74,7 @@
 <img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=plastic">
 <img src="https://img.shields.io/badge/-Stripe-008CDD.svg?logo=stripe&style=plastic">
 <img src="https://img.shields.io/badge/-Squarespace-000000.svg?logo=squarespace&style=plastic">
-<img src="https://img.shields.io/badge/-Graphql-E10098.svg?logo=graphql&style=plastic">
-<img src="https://img.shields.io/badge/-Zendesk-03363D.svg?logo=zendesk&style=plastic">
+<img src="https://img.shields.io/badge/-Auth0-EB5424.svg?logo=auth0&style=plastic">
 
 
 <span id="AI Model" class="fragment"></span>
@@ -115,7 +85,7 @@
 <span id="CI/CD" class="fragment"></span>
 <h4>CI/CD</h4>
 <img src="https://img.shields.io/badge/-Jenkins-D24939.svg?logo=jenkins&style=plastic">
-
+<img src="https://img.shields.io/badge/-Circleci-343434.svg?logo=circleci&style=plastic">
 
 <span id="DB" class="fragment"></span>
 <h4>DB</h4>
@@ -123,8 +93,8 @@
 <img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic">
 <img src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=plastic">
 
-<span id="NoCode" class="fragment"></span>
-<h4>NoCode</h4>
+<span id="No Code" class="fragment"></span>
+<h4>No Code</h4>
 <img src="https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=plastic">
 <img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=plastic">
 <img src="https://img.shields.io/badge/-Wordpress-21759B.svg?logo=wordpress&style=plastic">
@@ -132,24 +102,25 @@
 <img src="https://img.shields.io/badge/-Shopify-7AB55C.svg?logo=shopify&style=plastic">
 
 
+<span id="その他" class="fragment"></span>
+<h4>その他</h4>
+<img src="https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Gitlab-E24329.svg?logo=gitlab&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Letsencrypt-003A70.svg?logo=letsencrypt&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Dropbox-0061FF.svg?logo=dropbox&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Jira-172B4D.svg?logo=jira&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Joomla-5091CD.svg?logo=joomla&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Yarn-2C8EBB.svg?logo=yarn&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Android%20Studio-A4C639.svg?logo=android&style=for-the-badge" loading="lazy">
+<img src="https://img.shields.io/badge/-Postman-FF6C37.svg?logo=postman&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Powershell-5391FE.svg?logo=powershell&style=for-the-badge">
 
 
 
 
-
-
-
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcturus-technologies&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-
-
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=arcturus-technologies&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-
-
-
-
-[![github-chart](https://github-chart.vercel.app/api?user=arcturus-technologies)](https://github.com/arcturus-technologies/github-chart)
-
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20arcturus-technologies)](https://github.com/arcturus-technologies)
-
-
-</body>
