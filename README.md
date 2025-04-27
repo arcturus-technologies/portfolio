@@ -26,13 +26,13 @@
 <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Graphql-E10098.svg?logo=graphql&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Dot%20net-5C2D91.svg?logo=dot-net&style=plastic">
+<img src="https://img.shields.io/badge/-Dot%20net-5C2D91.svg?logo=dot-net&style=for-the-badge">
 
 <span id="バックエンド言語" class="fragment"></span>
 <h4>バックエンド言語</h4>
 <img src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=for-the-badge">
-<img src="https://img.shields.io/badge/-C#-000000.svg?logo=C#&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Cashapp-00C244.svg?logo=cashapp&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Deno-000000.svg?logo=deno&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=for-the-badge">
