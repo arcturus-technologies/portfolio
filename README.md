@@ -51,13 +51,13 @@
 
 
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxxxxxxxx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcturus-technologies&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
 
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=xxxxxxxxxx&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=arcturus-technologies&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 
 
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20xxxxxxxxxx)](https://github.com/xxxxxxxxxx)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20arcturus-technologies)](https://github.com/arcturus-technologies)
 
 
-[![github-chart](https://github-chart.vercel.app/api?user=xxxxxxxxxx)](https://github.com/xxxxxxxxxx/github-chart)
+[![github-chart](https://github-chart.vercel.app/api?user=arcturus-technologies)](https://github.com/arcturus-technologies/github-chart)
