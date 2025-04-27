@@ -14,7 +14,9 @@
 [![JavaScriptバッジ](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-<span id="フロントエンドフレームワーク" class="fragment"></span><a href="#%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF"><i class="fa fa-link"></i></a>フロントエンドフレームワーク</h4>
+<span id="フロントエンドフレームワーク" class="fragment"></span>
+
+<a href="#%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF"><i class="fa fa-link"></i></a>フロントエンドフレームワーク</h4>
 <a href="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Node.js-000000.svg%3Flogo%3Dnode.js%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;s=58a7faca7c79608cc0f2f1dd1e56645c" target="_blank" rel="nofollow noopener"><img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Node.js-000000.svg%3Flogo%3Dnode.js%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;s=58a7faca7c79608cc0f2f1dd1e56645c" srcset="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Node.js-000000.svg%3Flogo%3Dnode.js%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;w=1400&amp;fit=max&amp;s=72be665f3679ff893ffec6960ff97370 1x" data-canonical-src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&amp;style=for-the-badge" loading="lazy"></a>
 <a href="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Next.js-000000.svg%3Flogo%3Dnext.js%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;s=35cd13428275432d41a74d49b1f3af9d" target="_blank" rel="nofollow noopener"><img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Next.js-000000.svg%3Flogo%3Dnext.js%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;s=35cd13428275432d41a74d49b1f3af9d" srcset="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Next.js-000000.svg%3Flogo%3Dnext.js%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;w=1400&amp;fit=max&amp;s=5033a3650c436d1d742372184ce25248 1x" data-canonical-src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&amp;style=for-the-badge" loading="lazy"></a>
 <a href="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-TailwindCSS-000000.svg%3Flogo%3Dtailwindcss%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;s=c5f403335d5eaf1c0b1b5198a6719402" target="_blank" rel="nofollow noopener"><img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-TailwindCSS-000000.svg%3Flogo%3Dtailwindcss%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;s=c5f403335d5eaf1c0b1b5198a6719402" srcset="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-TailwindCSS-000000.svg%3Flogo%3Dtailwindcss%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;w=1400&amp;fit=max&amp;s=08e99fafaa806e4e7b5156ce96427343 1x" data-canonical-src="https://img.shields.io/badge/-TailwindCSS-000000.svg?logo=tailwindcss&amp;style=for-the-badge" loading="lazy"></a>
@@ -72,9 +74,11 @@
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=arcturus-technologies&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 
 
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20arcturus-technologies)](https://github.com/arcturus-technologies)
 
 
 [![github-chart](https://github-chart.vercel.app/api?user=arcturus-technologies)](https://github.com/arcturus-technologies/github-chart)
+
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20arcturus-technologies)](https://github.com/arcturus-technologies)
+
 
 </body>
